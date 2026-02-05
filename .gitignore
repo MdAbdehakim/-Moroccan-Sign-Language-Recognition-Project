@@ -1,0 +1,6 @@
+moroccan_sign_language_model.h5
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+~$*
+*.tmp
